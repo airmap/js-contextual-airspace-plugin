@@ -47,7 +47,7 @@ Here's an example of a minimal setup. See [Documentation](#documentation) for mo
     <head>
         <title>Mapbox-gl-js Ruleset Plugin</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-        <script src="https://cdn.airmap.io/js/airmap-contextual-airspace-plugin/v1.0/airmap.contextual-airspace-plugin.min.js" async=false defer=false></script>       
+        <script src="https://cdn.airmap.io/js/contextual-airspace/v1.0/airmap.contextual-airspace-plugin.min.js" async=false defer=false></script>       
         <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.0/mapbox-gl.js"></script>
         <link href="https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.0/mapbox-gl.css" rel="stylesheet" />
         <style>
